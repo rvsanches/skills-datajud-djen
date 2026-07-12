@@ -1,3 +1,5 @@
+![skills-datajud-djen — o que a documentação oficial não conta](docs/assets/capa.png)
+
 # skills-datajud-djen
 
 **Agent Skills com conhecimento de produção sobre as APIs públicas do CNJ:
